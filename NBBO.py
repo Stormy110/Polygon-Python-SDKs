@@ -8,7 +8,7 @@ def ts_to_datetime(ts) -> str:
 
 
 def main():
-    key = "t6HIBdnMS2XzzUDpulqlCImNyvRtCAVD"
+    key = "add api key"
 
     # RESTClient can be used as a context manager to facilitate closing the underlying http session
     # https://requests.readthedocs.io/en/master/user/advanced/#session-objects

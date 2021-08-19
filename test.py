@@ -1,7 +1,7 @@
 from polygon import RESTClient
 
 
-key = "DZ8JvpdnlEhPMQz0WiJC1XnzuBxucJqs"
+key = "add api key"
 valid_symbol_list = pd.DataFrame()
 count = 1
     # with RESTClient(key) as client:

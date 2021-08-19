@@ -16,7 +16,7 @@ def my_custom_close_handler(ws):
 
 
 def main():
-    key = 'hgIFqhBJYbYKLNTT4SBlnfVJ1Bino5AH'
+    key = 'add api key'
     my_client = WebSocketClient(STOCKS_CLUSTER, key, my_custom_process_message)
     my_client.run_async()
 

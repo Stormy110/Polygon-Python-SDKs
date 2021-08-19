@@ -2,7 +2,7 @@ from polygon import RESTClient
 import json
 
 def main():
-    key = "t6HIBdnMS2XzzUDpulqlCImNyvRtCAVD"
+    key = "add api key"
 
     # Create REST client    
     with RESTClient(key) as client:
